@@ -45,7 +45,3 @@
 - **Months 3–4**: Intermediate Skills  
 - **Months 5–6**: Advanced Mastery  
 - **Beyond 6 months**: Expert Projects + Open Source Contributions  
-
----
-
-Would you like me to expand this into a **weekly study schedule with exercises and milestones**, or keep it as a flexible roadmap you can adapt?
